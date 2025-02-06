@@ -30,6 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - HeidiSQL.
 
 <h2>Installation Steps</h2>
+(Image #1)
 
 ![image](https://github.com/user-attachments/assets/d621f906-d02b-4309-a164-d29dfdfbe971)
 
@@ -41,6 +42,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+(Image #1)
+
 
 ![image](https://github.com/user-attachments/assets/2dfca0b6-864b-46c0-bf31-e910f279601a)
 
@@ -50,8 +53,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <br />
+(Image #1)
 
 ![image](https://github.com/user-attachments/assets/35deeab7-c7be-40b4-8895-6e0c90a51758)
+(Image #2)
 
 ![image](https://github.com/user-attachments/assets/13a00593-5a7f-448f-b254-9854ec198883)
 
